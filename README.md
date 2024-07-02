@@ -1,7 +1,7 @@
 ## PASSO A PASSO - DOCKER
 
 ### 1 - Importar o Ubuntu e Criar Usuário
-  - 1: Deixar a imagem dentro de uma pasta no C
+  - 1: Deixar a imagem dentro de uma pasta no C - Compartilhado da Amber/Ubuntu
   - 2: Importar o arquivo `wsl --import UbuntuCNTLM . <CAMINHO UbuntuCNTLM.tar>`
   - 3: Entrar na imagem - `wsl -d UbuntuCNTLM`
   - 4: Muda o usuário padrão para o seu - `usermod -l <USERNAME> user`
