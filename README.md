@@ -1,3 +1,5 @@
+**OBS: UTILZAR COMO APOIO O TXT "configs_iniciais" CONTIDO NESSE REPOSITÓRIO**
+
 # PASSO A PASSO - DOCKER
 - 1: Deixar a imagem dentro de uma pasta no C
 - 2: `wsl --import UbuntuCNTLM . .\UbuntuDockerCNTLM.tar`
