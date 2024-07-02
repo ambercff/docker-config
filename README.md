@@ -17,6 +17,7 @@
 # PASSO A PASSO - PORTAINER
  - 1: `cd ~`
  - 2: `mkdir portainer`
- - 3: `nano docker-compose.yml`
- - 4: colocar dentro o arquivo de mesmo nome contido nesse repositório
- - 5: `docker compose up -d`
+ - 3: `docker network create agent_network`
+ - 4: `nano docker-compose.yml`
+ - 5: colocar dentro o arquivo de mesmo nome contido nesse repositório
+ - 6: `docker compose up -d`
