@@ -1,0 +1,23 @@
+usermod -l <USERNAME> user - muda o nome de usuário para o determinado
+
+passwd <USERNAME> - Altera a senha de determinado usuário
+
+wsl -d <DISTRO_NAME> - inicia a imagem de determinada distribuição
+
+su <USERNAME> - Entra em determinado usuário
+
+sudo service docker start - Inicia o Docker
+
+sudo service cntlm start - Inicia o CNTLM
+
+sudo service <NAME> status - Verifica o status do Docker por exemplo
+
+sudo dockerd - abre um log sobre o funcionamento do Docker
+
+docker network create agent_network
+
+nano docker-compose.yml - cria um arquivo no qual você cria seu container
+
+docker compose up -d - "envia" o container
+
+docker ps - vê os containers
