@@ -6,6 +6,7 @@
   - 3: Entrar na imagem - `wsl -d UbuntuCNTLM`
   - 4: Muda o usuário padrão para o seu - `usermod -l <USERNAME> user`
   - 5: Comando para alterar a senha do seu usuário - `passwd <USERNAME>`
+  - 6: Comando para logar - `su <USERNAME>`
 ### 2 - Configurar o CNTLM
   - 1: `sudo cntlm -d BR -u <usuario_rede_bosch> -H`
   - 2: Copiar a senha **PassNTLMv2** em um bloco de notas
