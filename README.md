@@ -17,7 +17,7 @@
 ### 3 - Iniciar o Docker
   - 1: Iniciar o docker - `sudo service docker start`
   - 2: Testar - `sudo docker run hello-world`
-### 4 - Criar Container com Pontainer
+### 4 - Criar Container com Portainer
  - 1: Pasta raiz do linux - `cd ~`
  - 2: Criar pasta - `mkdir portainer`
  - 3: Entrar na pasta - `cd portainer`
